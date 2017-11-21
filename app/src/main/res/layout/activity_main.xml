@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@mipmap/main_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".ui.activity.MainActivity" >
+    
+    <Button 
+        android:id="@+id/rr"
+        android:layout_width="130dp"
+        android:layout_height="55dp"
+        android:text="@string/human"
+        android:textColor="#fffeee"/>
+
+    <Button 
+        android:id="@+id/rj"
+        android:layout_width="130dp"
+        android:layout_height="55dp"
+        android:text="@string/computer"
+        android:textColor="#fffeee"/>
+    <Button 
+        android:id="@+id/help"
+        android:layout_width="130dp"
+        android:layout_height="55dp"
+        android:text="@string/help"
+        android:textColor="#fffeee"/>
+    <Button 
+        android:id="@+id/about"
+        android:layout_width="130dp"
+        android:layout_height="55dp"
+        android:text="@string/about"
+        android:textColor="#fffeee"/>
+    <Button 
+        android:id="@+id/exit"
+        android:layout_width="130dp"
+        android:layout_height="55dp"
+        android:text="@string/exit"
+        android:textColor="#fffeee"/>
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">五子棋</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="restart">重新开始</string>
+    <string name="back">悔棋</string>
+    <string name="goMainActivity">返回主界面</string>
+    <string name="about">关于</string>
+    <string name="human">人人对战</string>
+    <string name="computer">人机对战</string>
+    <string name="help">帮助</string>
+    <string name="exit">退出</string>
+    <string name="helpText">
+        游戏介绍：\n
+        \u3000\u3000五子棋是世界智力运动会竞技项目之一，
+                是一种两人对弈的纯策略型棋类游戏。\n\n
+                胜负判定：\n
+		\u3000\u3000某一方玩家最先在棋盘上形成横、竖、斜连成五连或长连，将获得胜利。
+    </string>
+    <string name="aboutText">
+		作者：赵万军\n\n
+		学号：20130507130
+    </string>
+
+</resources>
